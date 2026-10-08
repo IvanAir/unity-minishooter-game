@@ -1,6 +1,6 @@
 # 🔴▲⬛ Geometry Shooter (Prototype)
 
-**[🎮 PLAY IN BROWSER](https://ivanair.github.io/unity-minishooter-game/)**
+**🎮[PLAY IN BROWSER](сменить ссылку)**
 
 ## 📖 О проекте
 Прототип минималистичного 2D-шутера с видом сверху. Игрок управляет боевой машиной, отбиваясь от волн геометрических противников.
