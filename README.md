@@ -1,6 +1,6 @@
 # 🔴▲⬛ Geometry Shooter (Prototype)
 
-**🎮[PLAY IN BROWSER](сменить ссылку)**
+**🎮[PLAY IN BROWSER](https://qa-gamedev.github.io/geometry-shooter-prototype/)**
 
 ## 📖 О проекте
 Прототип минималистичного 2D-шутера с видом сверху. Игрок управляет боевой машиной, отбиваясь от волн геометрических противников.
